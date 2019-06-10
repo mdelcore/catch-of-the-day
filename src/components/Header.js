@@ -16,7 +16,7 @@ class Header extends React.Component {
                 </h3> 
             </Header>
             
-        )
+        );
 
     }
 }

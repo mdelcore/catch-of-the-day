@@ -6,7 +6,7 @@ class Order extends React.Component {
             <div className="order">
                 Order!!!
             </div>
-        )
+        );
     }
 }
 
